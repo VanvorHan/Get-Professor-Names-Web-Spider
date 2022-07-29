@@ -1,1 +1,1 @@
-# Get-Professor-Names-Web-Spider
+# GetProfessorNames-WebSpider
